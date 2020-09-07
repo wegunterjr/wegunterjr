@@ -12,6 +12,14 @@ Entertaining Robots:
 
  <img src="https://github.com/wegunterjr/wegunterjr/blob/master/images/gallery_xlarge.jpg" width="240">
 
+ 🌱 I’m currently learning 
+ ![ROS](https://github.com/wegunterjr/wegunterjr/blob/master/images/rosIcon.png)
+
+ ![Noetic](https://github.com/wegunterjr/wegunterjr/blob/master/images/NoeticNinjemys.png.png)
+
+ ![Foxy](https://github.com/wegunterjr/wegunterjr/blob/master/images/FoxyFitzroy.png)
+
+C:\Users\wegun\Documents\Projects\wegunterjr\images\
 <!--
 **wegunterjr/wegunterjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
