@@ -7,7 +7,7 @@ Simple Robots:
 Complex Robots:
 
 Entertaining Robots:
-![Robots](/images/gallery_xlarge.jpg)
+![Robots](images/gallery_xlarge.jpg)
 
 <!--
 **wegunterjr/wegunterjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
