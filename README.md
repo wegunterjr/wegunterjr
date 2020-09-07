@@ -20,7 +20,6 @@ Entertaining Robots:
 
 <img src="https://github.com/wegunterjr/wegunterjr/blob/master/images/FoxyFitzroy.png" width="240">
 
-C:\Users\wegun\Documents\Projects\wegunterjr\images\
 <!--
 **wegunterjr/wegunterjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
