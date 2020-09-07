@@ -9,7 +9,6 @@ Simple Robots:
 Complex Robots:
 
 Entertaining Robots:
-![Robots](https://github.com/wegunterjr/wegunterjr/blob/master/images/gallery_xlarge.jpg)
  <img src="https://github.com/wegunterjr/wegunterjr/blob/master/images/gallery_xlarge.jpg" width="240">
 <!--
 **wegunterjr/wegunterjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,4 +27,4 @@ Here are some ideas to get you started:
 
 This is a little video set (way overdue for new content BTW) but could be a small step towards learning to program.
 
-[![FUN](http://img.youtube.com/vi/tLetFlVe5xA/0.jpg)](http://www.youtube.com/watch?v=tLetFlVe5xA "M5 Stack Intro")
+[![FUN](https://img.youtube.com/vi/tLetFlVe5xA/0.jpg)](https://www.youtube.com/watch?v=tLetFlVe5xA "M5 Stack Intro")
