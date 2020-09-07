@@ -10,7 +10,7 @@ Complex Robots:
 
 Entertaining Robots:
 ![Robots](https://github.com/wegunterjr/wegunterjr/blob/master/images/gallery_xlarge.jpg)
-
+ <img src="https://github.com/wegunterjr/wegunterjr/blob/master/images/gallery_xlarge.jpg" width="240">
 <!--
 **wegunterjr/wegunterjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
