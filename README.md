@@ -12,12 +12,13 @@ Entertaining Robots:
 
  <img src="https://github.com/wegunterjr/wegunterjr/blob/master/images/gallery_xlarge.jpg" width="240">
 
- 🌱 I’m currently learning 
- ![ROS](https://github.com/wegunterjr/wegunterjr/blob/master/images/rosIcon.png)
+ 🌱 I’m currently learning how to be a better roboticist!! More open source, more community!!!  
 
- ![Noetic](https://github.com/wegunterjr/wegunterjr/blob/master/images/NoeticNinjemys.png.png)
+ <img src="https://github.com/wegunterjr/wegunterjr/blob/master/images/rosIcon.png" width="240">
 
- ![Foxy](https://github.com/wegunterjr/wegunterjr/blob/master/images/FoxyFitzroy.png)
+<img src="https://github.com/wegunterjr/wegunterjr/blob/master/images/NoeticNinjemys.png" width="240">
+
+<img src="https://github.com/wegunterjr/wegunterjr/blob/master/images/FoxyFitzroy.png)" width="240">
 
 C:\Users\wegun\Documents\Projects\wegunterjr\images\
 <!--
