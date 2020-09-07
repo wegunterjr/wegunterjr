@@ -1,5 +1,5 @@
 ### Hi there 👋  I am a roboticist!!   机器人工程师
-![GN2R](https://github.com/wegunterjr/wegunterjr/blob/master/images/gn2r_Large%20Logo.png)
+![GN2R](https://github.com/wegunterjr/wegunterjr/blob/master/images/GN2R%20Logo%202.png)
 Not only are robots cool and entertaining, they can help us solve problems from the fairly simple and mundane, to the complex and dangerous either here on planet Earth :earth_americas: or in outer space. SO COOL!!!  s
 I love open source techologies and collaborating.  And nothing brings me more joy than teaching logic and problem solving through engineering cycle and robotics to kids and kids at heart. 
 
