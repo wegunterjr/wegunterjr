@@ -9,7 +9,9 @@ Simple Robots:
 Complex Robots:
 
 Entertaining Robots:
+
  <img src="https://github.com/wegunterjr/wegunterjr/blob/master/images/gallery_xlarge.jpg" width="240">
+
 <!--
 **wegunterjr/wegunterjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,6 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Robotics Programming Intro
 
 This is a little video set (way overdue for new content BTW) but could be a small step towards learning to program.
 
