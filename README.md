@@ -1,5 +1,5 @@
 ### Hi there 👋  I am a roboticist!!  
-Not only are robots cool and entertaining, they can help us solve problems from the fairly simple and mundane, to the complex and dangerous.  They can help us on Earth :earth_americas: or in outer space. SO COOL!!!  
+Not only are robots cool and entertaining, they can help us solve problems from the fairly simple and mundane, to the complex and dangerou either here on planet Earth :earth_americas: or in outer space. SO COOL!!!  
 I love open source techologies and collaborating.  And nothing brings me more joy than teaching logic and problem solving through engineering cycle and robotics to kids and kids at heart. 
 
 Simple Robots:
