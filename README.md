@@ -1,4 +1,4 @@
-### Hi there 👋  I am a roboticist!!   机器人工程师  <img src="./images/Shall-we-play-a-game.gif" width="100">
+### Hi there 👋  I am a roboticist!!   机器人工程师  <img src="../images/Shall-we-play-a-game.gif" width="100">
 
 ![GN2R](https://github.com/wegunterjr/wegunterjr/blob/master/images/GN2R%20Logo%202.png)
 Not only are robots cool and entertaining, they can help us solve problems from the fairly simple and mundane, to the complex and dangerous either here on planet Earth :earth_americas: or in outer space. SO COOL!!!
